@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/Ohsebin99/Ohsebin99/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  ![IMG_5350](https://github.com/user-attachments/assets/e9917787-1025-42d5-a890-31e3e9408c7c)
 </div>
 
 <!--내용 부분-->
