@@ -1,63 +1,71 @@
-# 🌟 Welcome to My GitHub Profile! 👋
-
----
-
-## About Me 🧑‍💻
-Hi there! I'm **[Your Name]**, a passionate developer dedicated to crafting meaningful and impactful projects. 🚀
-
-- 🌱 **Currently Exploring**: *[Your Focus, e.g., Swift, Spring Framework]*
-- 💡 **Hobbies**: Web Development, Open Source Contribution, and Mobile Apps
-- 🌟 **Fun Fact**: *[A Fun Fact About Yourself]*
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-- **Proficient**: [Java, Swift, HTML, CSS, etc.]
-- **Learning**: [Any new languages you're exploring]
-
-### ⚙️ Frameworks & Tools
-- **Backend**: [Spring, Node.js, etc.]
-- **Frontend**: [React, Angular, etc.]
-- **Other Tools**: [IntelliJ, Git, Docker, etc.]
-
-### 💾 Databases
-- [MySQL, PostgreSQL, MongoDB, etc.]
-
----
-
-## 🚀 Projects
-
-### 🔥 [Project Name 1]
-- **Overview**: [Brief Description of the Project]
-- **Tech Stack**: [Java, Spring, etc.]
-- **GitHub**: [Link to Repository]
-
-### 🌟 [Project Name 2]
-- **Overview**: [Brief Description of the Project]
-- **Tech Stack**: [Swift, etc.]
-- **GitHub**: [Link to Repository]
-
-Feel free to explore my repositories for more!
-
----
-
-## 📊 GitHub Stats
+<!--타이틀 부분-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+  <img src="https://github.com/oka1313/Ohsebin99/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 
----
+<!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/coffeescript.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
-## 🌐 Connect with Me
+<div align="center">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 
-### 🤝 Let's Collaborate
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Link]
-- **Email**: [Your Email Address]
+<br>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+</div>
 
-💖 _Thank you for stopping by! Let's create something amazing together._ ✨
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@oka1313">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:oka1313@gmail.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
