@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">⚙ Stack ⚙</h3>
+<h3 align="center">🛠 Stack 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-FF9A00.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -18,15 +18,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/INTELLIJ-000000.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<br>
+<hr style="border: 1px solid #000;"/>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
