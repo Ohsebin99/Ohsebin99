@@ -32,29 +32,9 @@
 <h3 align="center">📫 SNS 📫</h3>
 
 <div align="center">
-  <a href="https://seb1n.tistory.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/기술 블로그-FFFFFF.svg?style=flat&logo=stripe&logoColor=black" />
-  </a>
-  
-  <a href="mailto:osb7372@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-   <a href="https://seb1n.tistory.com/">
+ <a href="https://seb1n.tistory.com/">
     <img src="https://img.shields.io/badge/기술 블로그-FFFFFF.svg?style=flat&logo=stripe&logoColor=black"/>
    </a>
-  
   <a href="mailto:osb7372@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
