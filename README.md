@@ -15,27 +15,47 @@
 <!--내용 부분-->
 <h3 align="center">🛠 Stack 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-FF9A00.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JAVA-FF9A00.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/THYMELEAF-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/THYMELEAF-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </div>
 
 <br>
 
 <hr style="border: 1px solid #000;"/>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 SNS 📫</h3>
+
+<div align="center">
+  <a href="https://seb1n.tistory.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/기술 블로그-FFFFFF.svg?style=flat&logo=stripe&logoColor=black" />
+  </a>
+  
+  <a href="mailto:osb7372@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
 <div align="center">
    <a href="https://seb1n.tistory.com/">
-    <img src="https://img.shields.io/badge/기술 블로그-FFFFFF.svg?style=flat&logo=stripe&logoColor=black"/>&nbsp
+    <img src="https://img.shields.io/badge/기술 블로그-FFFFFF.svg?style=flat&logo=stripe&logoColor=black"/>
    </a>
   
-  <a href="mailto:osb7372@gmail.com">
+  <a href="mailto:osb7372@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </div>
