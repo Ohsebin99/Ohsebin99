@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   <h3 align="center">⚙️ FRAMEWORK ⚙️</h3>
-  <img src="https://img.shields.io/badge/SPRINGFRAMEWORK-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 <div align="center">
   <h3 align="center">🖥️ FRONTEND 🖥️</h3>
