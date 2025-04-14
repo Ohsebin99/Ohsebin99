@@ -19,7 +19,8 @@
 </div>
 <div align="center">
   <h3 align="center">💾 DATABASE 💾</h3>
-  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+   <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/sourcehut-FF6600.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 <div align="center">
