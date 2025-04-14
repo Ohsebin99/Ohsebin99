@@ -1,9 +1,7 @@
-
-
-
 <!--내용 부분-->
 <h2 align="center">🛠 Stack 🛠</h2>
 <div align="center">
+  <h3 align="center">📖 LANGUAGE 📖</h3>
   <img src="https://img.shields.io/badge/JAVA-FF9A00.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
