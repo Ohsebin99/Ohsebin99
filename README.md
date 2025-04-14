@@ -14,11 +14,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/THYMELEAF-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-1572B6.svg?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 </div>
 <div align="center">
   <h3 align="center">💾 DATABASE 💾</h3>
    <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-   <img src="https://img.shields.io/badge/ORACLE-FF6600.svg?style=for-the-badge&logo=sourcehut&logoColor=white"/>
+   <img src="https://img.shields.io/badge/ORACLE-D30707.svg?style=for-the-badge&logo=sourcehut&logoColor=white"/>
 </div>
 
 <br>
