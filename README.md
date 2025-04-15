@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/THYMELEAF-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-C01818.svg?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 <div align="center">
   <h3 align="center">💾 DATABASE 💾</h3>
